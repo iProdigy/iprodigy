@@ -4,8 +4,8 @@ i'm prodigy (he/them)
 
 * i maintain [Twitch4J](https://github.com/twitch4j/twitch4j), a JVM library for interacting with Twitch's APIs
 * i maintain [Xanthic](https://github.com/Xanthic/cache-api), a facade for various caching implementations on the JVM
-* i maintain [Dink](https://github.com/pajlads/DinkPlugin/), a [RuneLite](https://github.com/runelite/runelite/) plugin that calls webhooks upon in-game events (20K+ weekly users)
-* i maintain [Pickpocket Helper](https://github.com/pajlads/runelite-pickpocket-helper), a [RuneLite](https://github.com/runelite/runelite/) plugin that faciliates thieving in OSRS (35K+ weekly users)
+* i maintain [Dink](https://github.com/pajlads/DinkPlugin/), a [RuneLite](https://github.com/runelite/runelite/) plugin that calls webhooks upon in-game events (35K weekly users)
+* i maintain [Pickpocket Helper](https://github.com/pajlads/runelite-pickpocket-helper), a [RuneLite](https://github.com/runelite/runelite/) plugin that faciliates thieving in OSRS (50K weekly users)
 * i maintain [events4j](https://github.com/PhilippHeuer/events4j), a JVM event bus with Project Reactor and Spring support
 * i maintain [Credential Manager](https://github.com/PhilippHeuer/credential-manager), a JVM OAuth2 client and credential store
 * i serve as a reviewer for [RuneLite's Plugin Hub](https://github.com/runelite/plugin-hub/), ensuring third-party code is not malicious or unstable
